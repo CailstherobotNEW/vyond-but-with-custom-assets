@@ -1,2 +1,2 @@
 # vyond-but-with-custom-assets
-This is for GoAnimate Others Localhost
+This is for GoAnimate Or Vyond Others Localhost
